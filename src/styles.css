@@ -91,4 +91,5 @@ p {
     color: var(--secondary-color);
     text-decoration: none;
     border-radius: 4px;
+    box-shadow: var(--box-shadow);
 }
